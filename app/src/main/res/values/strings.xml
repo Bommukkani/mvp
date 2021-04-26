@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="communication_error">Error in getting data. Please try again later.</string>
+    <string name="most_popular_users">MyApplication</string>
+    <string name="overview">Overview</string>
+    <string name="top_billed_cast">Top Billed Cast</string>
+    <string name="details">Details</string>
+    <string name="homepage">Name</string>
+    <string name="tagline">Full name</string>
+    <string name="Runtime">Description</string>
+    <string name="filter">Filter</string>
+    <string name="release_date">Release date:</string>
+    <string name="from">Select From</string>
+    <string name="to">Select To</string>
+    <string name="clear_all">Clear All</string>
+    <string name="error_date_filter">Please select from and to dates.</string>
+    <string name="no_users">Oops! No result found.</string>
+    <string name="error_data">Something went wrong! Please try again later.</string>
+    <string name="done">Done</string>
+    <string name="type">Type</string>
+    <string name="id">Id</string>
+    <string name="nodeId">Node Id</string>
+</resources>
